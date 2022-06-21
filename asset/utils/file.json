@@ -1,0 +1,42 @@
+[
+  {
+    "id":"1",
+    "name":"anono",
+    "description":" un petit village situé en plein coeur dabidjan dans ce village vis les ebriés peuple atchan",
+    "price":"100000",
+    "stars":"3",
+    "people":"30000",
+    "img":"i1.jpg",
+    "location":"Boundiali"
+  },
+  {
+    "id":"2",
+    "name":"anono",
+    "description": " un petit village situé en plein coeur dabidjan . dans ce village vis les ebriés (peuple atchan) ",
+    "price":"100000",
+    "stars":"5",
+    "people":"30000",
+    "img":"i2.jpg",
+    "location":"Abidjan"
+  },
+  {
+    "id":"3",
+    "name":"anono",
+    "description": " un petit village situé en plein coeur dabidjan . dans ce village vis les ebriés (peuple atchan) ",
+    "price":"100000",
+    "stars":"3",
+    "people":"30000",
+    "img":"i3.jpg",
+    "location":"Bouaké"
+  },
+  {
+    "id":"4",
+    "name":"anono",
+    "description": " un petit village situé en plein coeur dabidjan . dans ce village vis les ebriés (peuple atchan) ",
+    "price":"100000",
+    "stars":"4",
+    "people":"30000",
+    "img":"i4.jpg",
+    "location":"Yamoussoukro"
+  }
+]

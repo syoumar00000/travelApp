@@ -1,0 +1,42 @@
+[
+  {
+    "id":"1",
+    "name":"Handcess",
+    "description":" Rien que le plaisir de se rendre super belle pour sois meme, ensuite pour son cheri et pour sa famille ainsi que pour son entourage.",
+    "price":"3000",
+    "stars":"3",
+    "people":"30000",
+    "img":"fcil1.jpeg",
+    "location":"Abidjan"
+  },
+  {
+    "id":"2",
+    "name":"Stilleto",
+    "description": " Rien que le plaisir de se rendre super belle pour sois meme, ensuite pour son cheri et pour sa famille ainsi que pour son entourage. ",
+    "price":"5500",
+    "stars":"5",
+    "people":"100.000",
+    "img":"fcil2.jpg",
+    "location":"Abidjan"
+  },
+  {
+    "id":"3",
+    "name":"Résine",
+    "description": " Rien que le plaisir de se rendre super belle pour sois meme, ensuite pour son cheri et pour sa famille ainsi que pour son entourage. ",
+    "price":"2500",
+    "stars":"3",
+    "people":"3000",
+    "img":"fcil3.jpg",
+    "location":"Abidjan"
+  },
+  {
+    "id":"4",
+    "name":"Pastel",
+    "description": " Rien que le plaisir de se rendre super belle pour sois meme, ensuite pour son cheri et pour sa famille ainsi que pour son entourage. ",
+    "price":"3000",
+    "stars":"4",
+    "people":"300",
+    "img":"fcil4.jpg",
+    "location":"Abidjan"
+  }
+]
